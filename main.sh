@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Verison="Beta 0.2"
+Verison="Beta 0.4"
 
 [[ $EUID -ne 0 ]] && echo "请在root用户下运行脚本" && exit 0
 
