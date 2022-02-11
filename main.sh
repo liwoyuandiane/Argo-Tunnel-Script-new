@@ -1,11 +1,10 @@
 #!/bin/bash
 
-Verison="Beta 0.4"
+Verison="Beta 0.4.1"
 
 [[ $EUID -ne 0 ]] && echo "请在root用户下运行脚本" && exit 0
 
 menu(){
-    
     clear
     echo "1. 安装CloudFlare Argo Tunnel"
     echo "2. 登录CloudFlare账户"
