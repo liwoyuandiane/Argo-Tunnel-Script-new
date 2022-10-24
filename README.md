@@ -1,6 +1,6 @@
 # Argo Tunnel Script
 
-A script helps you to set your Argo Tunnel.
+一个脚本可以帮助您设置 Argo Tunnel.
 
 ## How to use
 
